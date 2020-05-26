@@ -11,9 +11,9 @@ Learn to love code
   * [Repeated String](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/repeated_string.py)
 
 ## SQL
-  * [Revising the Select Query I]()
-  * [Revising the Select Query II]()
-  * [Select All]()
-  * [Select By ID]()
-  * [Japanese Cities' Attributes]()
-  * [The PADS]()
+  * [Revising the Select Query I](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Revising_Select_Query_I.sql)
+  * [Revising the Select Query II](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Revising_Select_Query_II.sql)
+  * [Select All](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Select_All.sql)
+  * [Select By ID](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Select_By_ID.sql)
+  * [Japanese Cities' Attributes](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Japanese_Cities_Attributes.sql)
+  * [The PADS](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/The_PADS.sql)
