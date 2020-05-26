@@ -1,7 +1,6 @@
-# HackerRank
+# HackerRank Challenges
 Learn to love code
-## HackerRank Challenges
-* ###### **Python Challenges**
+## Python Challenges
   * [Nested Lists](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/Nested_Lists.py)
   * [Find the Runner-Up Score!](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/Runner_up_score.py)
   * [Designer Door Mat](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/designer_door_mat.py)
