@@ -19,3 +19,7 @@ Learn to love code
   * [Select By ID](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Select_By_ID.sql)
   * [Japanese Cities' Attributes](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Japanese_Cities_Attributes.sql)
   * [The PADS](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/The_PADS.sql)
+  * [Weather Observation Station 1](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_1.sql)
+  * [Weather Observation Station 3](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_3.sql)
+  * [Weather Observation Station 4](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_4.sql)
+  * [Weather Observation Station 5](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_5.sql)
