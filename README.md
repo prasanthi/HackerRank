@@ -23,3 +23,4 @@ Learn to love code
   * [Weather Observation Station 3](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_3.sql)
   * [Weather Observation Station 4](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_4.sql)
   * [Weather Observation Station 5](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_5.sql)
+  * [Weather Observation Station 7](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Weather_Observation_Station_7.sql)
