@@ -11,6 +11,7 @@ Learn to love code
   * [Repeated String](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/repeated_string.py)
   * [Strings: Making Anagrams](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/strings_making_anagrams.py)
   * [Alternating Characters](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/alternating_characters.py)
+  * [Sherlock and the Valid String](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/sherlock_and_the_valid_string.py)
 
 ## SQL
   * [Revising the Select Query I](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Revising_Select_Query_I.sql)
