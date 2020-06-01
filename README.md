@@ -3,7 +3,10 @@ Learn to love code
 
 ## Python
   * [Lists](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/lists.py)
+  * [Tuples](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/tuples.py)
   * [Nested Lists](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/nested_lists.py)
+  * [List Comprehensions](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/list_comprehensions.py)
+  * [Finding the percentage](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/finding_the_percentage.py)
   * [Find the Runner-Up Score!](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/runner_up_score.py)
   * [Designer Door Mat](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/designer_door_mat.py)
   * [Sock Merchant](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/sock_merchant_solution.py)
@@ -13,7 +16,6 @@ Learn to love code
   * [Strings: Making Anagrams](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/strings_making_anagrams.py)
   * [Alternating Characters](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/alternating_characters.py)
   * [Sherlock and the Valid String](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/sherlock_and_the_valid_string.py)
-  * [Finding the percentage](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/finding_the_percentage.py)
 
 ## SQL
   * [Revising the Select Query I](https://github.com/prasanthi/HackerRank/blob/master/SQL%20Challenges/Revising_Select_Query_I.sql)
