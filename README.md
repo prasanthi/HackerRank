@@ -12,6 +12,8 @@ Learn to love code
   * [String Split and Join](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/string_split_and_join.py)
   * [What's Your Name?](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/whats_your_name.py)
   * [Mutations](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/Mutations.py)
+  * [Find a string](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/find_a_string.py)
+  * [String Validators](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/string_validators.py)
   * [Designer Door Mat](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/designer_door_mat.py)
   * [Sock Merchant](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/sock_merchant_solution.py)
   * [Counting Valleys](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/counting_valleys.py)
