@@ -15,6 +15,7 @@ Learn to love code
   * [Find a string](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/find_a_string.py)
   * [String Validators](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/string_validators.py)
   * [Text Alignment](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/text_alignment.py)
+  * [String Formatting](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/string_formatting.py)
   * [Designer Door Mat](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/designer_door_mat.py)
   * [Sock Merchant](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/sock_merchant_solution.py)
   * [Counting Valleys](https://github.com/prasanthi/HackerRank/blob/master/Python%20Challenges/counting_valleys.py)
